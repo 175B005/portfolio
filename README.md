@@ -4,9 +4,11 @@
 
 ## GAMES
 
-    [**ノコギリギリ**](https://unityroom.com/games/nokogirigiri)
-    [紹介ページ](https://github.com/175B005/weekreport7) 
-    ![](https://github.com/175B005/weekreport7/raw/master/scr.gif)
+  [**ノコギリギリ**](https://unityroom.com/games/nokogirigiri)
+  [紹介ページ](https://github.com/175B005/weekreport7) 
+    
+![](https://github.com/175B005/weekreport7/raw/master/scr.gif)
+
     ### 使用アセット
 
     - [定番の UnityChan!](http://unity-chan.com/)
